@@ -8,7 +8,7 @@
 -->
 <div>
   <a href="https://beacons.ai/JessicaSilva14">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2026">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSilva14anuraghazra&commits_year=2026">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSilva14anuraghazra&show_icons=true&theme=radical">
 </div>
 
