@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Jessica Silva 👋
 
-- Buscando estágio em TI/ ADS
+- Buscando estágio em TI/ ADS ✨
 - 🌱 Atualmente estudando Graduação em Analise e Desenvolvimento de Sistemas 
 - Formada em Full Stack Java, focando em: Lógica de Programação e JS Avançado, Engenharia de Front-end (SASS, LESS, Gulp, Parcel), TypeScript e Orientação a Objetos, Integração com Back-end 
 - 📫 Contate-me no e-mail: jessicaasilva.014@gmail.com
