@@ -6,11 +6,7 @@
 - 📫 Contate-me no e-mail: jessicaasilva.014@gmail.com
 - 😄 Pronouns: ela/dela
 -->
-<div>
-  <a href="https://beacons.ai/JessicaSilva14">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSilva14anuraghazra&commits_year=2026">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSilva14anuraghazra&show_icons=true&theme=radical">
-</div>
+
 
 <div style="display: inline_block"><br>
 
